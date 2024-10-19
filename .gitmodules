@@ -1,0 +1,6 @@
+[submodule "turbin_pre_req"]
+	path = turbin_pre_req
+	url = git@github.com:Dat-Andre/turbin_pre_req.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = git@github.com:Dat-Andre/solana-starter.git
