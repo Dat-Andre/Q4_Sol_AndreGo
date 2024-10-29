@@ -10,3 +10,6 @@
 [submodule "escrow"]
 	path = escrow
 	url = git@github.com:Dat-Andre/escrow.git
+[submodule "nft_stake"]
+	path = nft_stake
+	url = git@github.com:Dat-Andre/nft_stake.git
