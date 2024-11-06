@@ -13,3 +13,6 @@
 [submodule "nft_stake"]
 	path = nft_stake
 	url = git@github.com:Dat-Andre/nft_stake.git
+[submodule "marketplace"]
+	path = marketplace
+	url = git@github.com:Dat-Andre/marketplace.git
