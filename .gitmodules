@@ -16,3 +16,6 @@
 [submodule "marketplace"]
 	path = marketplace
 	url = git@github.com:Dat-Andre/marketplace.git
+[submodule "predicoid_1adaykeepsthedocteraway"]
+	path = predicoid_1adaykeepsthedocteraway
+	url = git@github.com:Dat-Andre/predicoid_1adaykeepsthedocteraway.git
