@@ -19,3 +19,6 @@
 [submodule "predicoid_1adaykeepsthedocteraway"]
 	path = predicoid_1adaykeepsthedocteraway
 	url = git@github.com:Dat-Andre/predicoid_1adaykeepsthedocteraway.git
+[submodule "amm"]
+	path = amm
+	url = git@github.com:Dat-Andre/amm.git
